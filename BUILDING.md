@@ -7,4 +7,6 @@
 ### Setting up
 1. Navigate to the root directory, and run `yarn install`.
 2. To run: `quasar dev -m electron`
-3. To build: `yarn build-{platform}`
+3. To build: `yarn build-{platform}
+
+yeah
